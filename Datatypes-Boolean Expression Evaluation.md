@@ -28,8 +28,10 @@ print("d:", d)
 ```
 
 ## Output:
+![Screenshot_24-3-2026_152051_github com](https://github.com/user-attachments/assets/6bd1eab0-2a36-423c-9798-b7db6d7c2138)
+![Screenshot_24-3-2026_15219_github com](https://github.com/user-attachments/assets/f177b248-14ac-4e42-99d9-f8ec4db44aeb)
 
-![Screenshot_24-3-2026_14520_www programiz com](https://github.com/user-attachments/assets/53a60fe5-660e-4beb-8031-c186fb38cc21)
+
 
 ## Result:
-The program was successfully implemented.
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
