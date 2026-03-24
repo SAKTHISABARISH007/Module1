@@ -22,8 +22,9 @@ else:
 
 ## Output
 
-![Screenshot_24-3-2026_135836_www programiz com](https://github.com/user-attachments/assets/0157948b-a92b-4b27-8dcf-45d22881e29b)
+![M-1 Q-1](https://github.com/user-attachments/assets/da998f1c-c449-4ed6-bc5e-de74bb33a1f8)
 
 
-## Result
-The program was successfully implemented.
+
+## Result:
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully
