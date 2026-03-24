@@ -21,6 +21,7 @@ else:
 ```
 
 ## Output
+<img width="1012" height="245" alt="image" src="https://github.com/user-attachments/assets/1781d676-01b1-4903-b039-9902c0449211" />
 
 ![M-1 Q-1](https://github.com/user-attachments/assets/da998f1c-c449-4ed6-bc5e-de74bb33a1f8)
 
